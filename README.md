@@ -1,8 +1,7 @@
 # 💫 About Me:
 
-# Hi 👋, I'm Altamash
-## I'm passionate Full Stack Mobile Application Developer.
-
+<h1 align="center">Hi 👋, I'm Altamash</h1>
+<h2 align="center">I'm passionate Full Stack Mobile Application Developer.</h2>
 
 ![Alt Text](gitbg.png)
 
