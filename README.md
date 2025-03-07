@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm passionate Full Stack Mobile Application Developer.
 
-![Alt Text](assets/gitbg.png)
+![Alt Text](gitbg.png)
 
 
 ## 🌐 Socials:
